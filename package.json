@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/DevArrowsmith/feed-the-cat/issues"
   },
-  "homepage": "https://github.com/DevArrowsmith/feed-the-cat#readme"
+  "homepage": "https://github.com/DevArrowsmith/feed-the-cat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
 }
