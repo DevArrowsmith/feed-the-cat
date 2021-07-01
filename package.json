@@ -1,0 +1,20 @@
+{
+  "name": "feed-the-cat",
+  "version": "1.0.0",
+  "description": "This repo is a short exercise in the creation of a controller for a cat feeding database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevArrowsmith/feed-the-cat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevArrowsmith/feed-the-cat/issues"
+  },
+  "homepage": "https://github.com/DevArrowsmith/feed-the-cat#readme"
+}
